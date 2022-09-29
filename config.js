@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ibnu'
-global.sgh = '-' //github
+global.sig = 'https://instagram.com/Ibnuopbrrww'
+global.sgh = 'https://github.com/IbnuBot' //github
 global.sgc = 'https://chat.whatsapp.com/CQ9WgaHyvz2DkeneRLoi0e' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/ibnu obr' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/Skyxo Miyuki' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '0895338690940' //dana
